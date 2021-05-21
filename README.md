@@ -8,6 +8,7 @@ To find out more visit [The Odin Project](https://www.theodinproject.com/paths/f
 Project is created with:
 * HTML
 * CSS
+* JS
 	
 ## View
 https://andrewbonas.github.io/Calculator/
